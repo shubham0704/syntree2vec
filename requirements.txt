@@ -20,7 +20,6 @@ bottleneck==1.2.1
 beautifulsoup4==4.6.0
 dask==0.16.0
 h5py==2.7.1
-mtrand==0.1
 numexpr==2.6.4
 openpyxl==2.5.0b1
 ordereddict==1.1
