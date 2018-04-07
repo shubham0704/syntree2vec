@@ -7,7 +7,6 @@ The purpose of this file is to train 2 models on the same data
 """
 from __future__ import print_function
 import sys, os
-sys.path.append(os.path.expanduser('~') + '/models/syntaxnet/')
 
 import multiprocessing
 from time import time
