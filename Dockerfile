@@ -1,5 +1,5 @@
 FROM tensorflow/syntaxnet
-MAINTAINER Shubham Bhardwaj <shubham.bhardwaj4245@gmail.com>
+LABEL maintainer="Shubham Bhardwaj <15546524+shubham0704@users.noreply.github.com>"
 
 RUN apt-get update
 RUN apt-get install -y ca-certificates gettext-base vim
